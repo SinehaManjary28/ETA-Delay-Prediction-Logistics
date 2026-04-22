@@ -1,9 +1,8 @@
 streamlit
-pandas>=2.3.0
-numpy>=2.2.0
-scikit-learn>=1.7.2
-lightgbm>=4.6.0
+pandas
+numpy
+scikit-learn
+lightgbm
 plotly
 joblib
 requests
-scipy>=1.15.0
