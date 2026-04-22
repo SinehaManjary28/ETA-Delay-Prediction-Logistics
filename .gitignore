@@ -33,10 +33,6 @@ data/raw/
 data/interim/
 data/processed/
 
-# Models (optional depending on need)
-*.joblib
-*.pkl
-*.h5
 
 # Logs
 logs/
